@@ -1,0 +1,8 @@
+.menu-item, .menu-item:active, .menu-item:visited{
+    color: #fff;
+    font-weight: 700;
+    margin-inline: 1rem;
+}
+.menu-item:hover{
+    opacity: 0.5;
+}
